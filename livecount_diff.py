@@ -1,7 +1,7 @@
 import json
 import urllib
 import time
-key ="AIzaSyDac3-CZQoFj8gd6cp9DBz6-HOGf2dU7aY"
+key ="Add your key from your google cloud platform"
 
 while True:
         tseries_url = "https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername=Tseries&key=" + key
